@@ -9,5 +9,6 @@ public class Assg2MortgageCalculatorActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        /// branch2 changes
     }
 }
